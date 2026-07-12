@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0160-intersection-of-two-linked-lists) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0207-course-schedule) |
@@ -74,5 +76,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0127-word-ladder) |
+## Backtracking
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
