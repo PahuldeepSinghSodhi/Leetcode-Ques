@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0200-number-of-islands) |
@@ -111,10 +112,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0078-subsets) |
 | [0126-word-ladder-ii](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0126-word-ladder-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0078-subsets) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
