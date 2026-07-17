@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0046-permutations) |
 | [0130-surrounded-regions](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0542-01-matrix) |
@@ -108,5 +109,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0046-permutations) |
 | [0126-word-ladder-ii](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
