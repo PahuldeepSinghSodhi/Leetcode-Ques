@@ -1,37 +1,37 @@
 class Solution {
 public:
     int shortestPathBinaryMatrix(vector<vector<int>>& grid) {
+
         int n = grid.size();
-        if(grid[0][0] == 1 || grid[n-1][n-1] == 1){ // we cant even start or we camt even end 
-            return -1;
-        }
-        vector<vector<int>> vis(n,vector<int>(n,0));
-        int drow[] = {-1,-1,0,1,1,1,0,-1}; // 8 ways check
-        int dcol[] = {0,1,1,1,0,-1,-1,-1};
-        queue <pair<pair<int,int>,int>> q;
-        q.push({{0,0},1}); //starting cell and first step alr taken to rwach there
-        vis[0][0] = 1;
+        if(grid[0][0] == 1 || grid[n-1][n-1] == 1) return -1;
+        if(n == 1) return 1;   // edge case: start == end
+
+        queue<pair<int,pair<int,int>>> q;
+        vector<vector<int>> dist(n, vector<int>(n, 1e9));
+        dist[0][0] = 0;
+        q.push({1, {0,0}});
+
+        int drow[] = {-1,-1,-1,0,0,1,1,1};
+        int dcol[] = {-1,0,1,-1,1,-1,0,1};
 
         while(!q.empty()){
-            int dist = q.front().second;
-            int row = q.front().first.first;
-            int col = q.front().first.second;
+            auto it = q.front();
             q.pop();
-
-            if(row == n-1 && col == n-1){ // checking if reached target cell
-                return dist;
-            }
+            int d = it.first;
+            int r = it.second.first;
+            int c = it.second.second;
 
             for(int i = 0 ; i < 8 ; i++){
-                int nrow = row + drow[i];
-                int ncol = col + dcol[i]; // traversing nerighbours
-                if(nrow >=0 && nrow < n && ncol >= 0 && ncol < n && vis[nrow][ncol] == 0 && grid[nrow][ncol] == 0){ //putting vis cells as neighbours in queue
-                vis[nrow][ncol] = 1;    
-                q.push({{nrow,ncol},dist+1});
+                int nr = r + drow[i];
+                int nc = c + dcol[i];
+
+                if(nr >= 0 && nr < n && nc >= 0 && nc < n && grid[nr][nc] == 0 && dist[nr][nc] == 1e9){
+                    dist[nr][nc] = d + 1;
+                    if(nr == n-1 && nc == n-1) return dist[nr][nc];
+                    q.push({dist[nr][nc], {nr, nc}});
                 }
             }
         }
-       
         return -1;
     }
 };
