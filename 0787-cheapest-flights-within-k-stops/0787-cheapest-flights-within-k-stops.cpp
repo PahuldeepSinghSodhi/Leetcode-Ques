@@ -2,42 +2,39 @@ class Solution {
 public:
     int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
 
-        priority_queue<pair<int,pair<int,int>>,vector<pair<int,pair<int,int>>>,greater<pair<int,pair<int,int>>>> pq;
+        queue<pair<int,pair<int,int>>> q;
+        vector<pair<int,int>> adj[n];
 
-        vector<vector<pair<int,int>>> adj(n);
         for(auto it : flights){
             adj[it[0]].push_back({it[1],it[2]});
         }
 
-        // best[node] = fewest stops used to reach 'node' among states already processed
-        vector<int> best(n, INT_MAX);
+        vector<int> dist(n,1e9);
+        dist[src] = 0;
+        //{stops,{node,dist}}
+        q.push({0,{src,0}});
 
-        pq.push({0,{src,0}});
+        while(!q.empty()){
+            auto it = q.front();
+            q.pop();
+            int stops = it.first;
+            int node = it.second.first;
+            int cost = it.second.second;
 
-        while(!pq.empty()){
-            auto ii = pq.top();
-            pq.pop();
-            int cost = ii.first;
-            int node = ii.second.first;
-            int stops = ii.second.second;
-            
-            if(node == dst){
-                return cost;
-            }
-            if(stops > k){
+            if( stops > k){
                 continue;
             }
-            // if we've already reached this node with fewer-or-equal stops,
-            // this path can't be better — skip it
-            if(stops >= best[node]){
-                continue;
+            for(auto iter : adj[node]){
+                int adjnode = iter.first;
+                int edjwt = iter.second;
+                if(cost + edjwt < dist[adjnode] && stops <=k){
+                    dist[adjnode] = cost + edjwt ;
+                    q.push({stops+1,{adjnode,dist[adjnode]}});
+                }
             }
-            best[node] = stops;
-            
-            for(auto it : adj[node]){
-                int price = cost + it.second;
-                pq.push({price,{it.first, stops+1}});
-            }
+        }
+        if(dist[dst] != 1e9){
+            return dist[dst];
         }
         return -1;
     }
