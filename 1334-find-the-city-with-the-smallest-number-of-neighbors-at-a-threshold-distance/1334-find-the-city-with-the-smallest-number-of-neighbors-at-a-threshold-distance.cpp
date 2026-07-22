@@ -20,22 +20,22 @@ public:
         }
 
         int citycnt = n;
-        int city = -1;
+        int cityy = -1;
       
 
-        for(int i = 0 ;i<n;i++){
+        for(int city = 0 ;city<n;city++){
               int cnt=0;
-            for(int j=0;j<n;j++){
-                if(dist[i][j] <= distanceThreshold){
+            for(int adjcity=0;adjcity<n;adjcity++){
+                if(dist[city][adjcity] <= distanceThreshold){
                     cnt +=1;
                 }
             }
             if(cnt <= citycnt){
                 citycnt = cnt;
-                city = i ;
+                cityy = city ;
             }
         }
-        return city;
+        return cityy;
         
     }
 };
