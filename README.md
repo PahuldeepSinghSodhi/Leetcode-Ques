@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1631-path-with-minimum-effort) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/2045-second-minimum-time-to-reach-destination) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1631-path-with-minimum-effort) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1631-path-with-minimum-effort) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1631-path-with-minimum-effort) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
@@ -149,12 +153,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1631-path-with-minimum-effort) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1631-path-with-minimum-effort) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
