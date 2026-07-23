@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0547-number-of-provinces) |
 | [0778-swim-in-rising-water](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0785-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0778-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -113,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0778-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1091-shortest-path-in-binary-matrix) |
