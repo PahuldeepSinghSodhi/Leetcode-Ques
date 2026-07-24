@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0443-string-compression) |
 | [1021-remove-outermost-parentheses](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1021-remove-outermost-parentheses) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
+| [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 ## Backtracking
 |  |
 | ------- |
@@ -193,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
+## Greedy
+|  |
+| ------- |
+| [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 <!---LeetCode Topics End-->
