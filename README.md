@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1020-number-of-enclaves) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1631-path-with-minimum-effort](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1631-path-with-minimum-effort](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1631-path-with-minimum-effort) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0127-word-ladder) |
 | [0443-string-compression](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0443-string-compression) |
 | [1021-remove-outermost-parentheses](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1021-remove-outermost-parentheses) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 ## Backtracking
 |  |
 | ------- |
@@ -186,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1021-remove-outermost-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 <!---LeetCode Topics End-->
