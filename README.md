@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0733-flood-fill) |
@@ -197,5 +198,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0135-candy) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 <!---LeetCode Topics End-->
