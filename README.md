@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0160-intersection-of-two-linked-lists) |
+| [0575-distribute-candies](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0575-distribute-candies) |
 ## Linked List
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0542-01-matrix) |
+| [0575-distribute-candies](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0575-distribute-candies) |
 | [0733-flood-fill](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0827-making-a-large-island) |
