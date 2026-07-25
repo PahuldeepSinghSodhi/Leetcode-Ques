@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 ## Matrix
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 ## Topological Sort
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 ## String
 |  |
 | ------- |
