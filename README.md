@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0160-intersection-of-two-linked-lists) |
 | [0575-distribute-candies](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0575-distribute-candies) |
+| [0721-accounts-merge](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Linked List
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0778-swim-in-rising-water) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0778-swim-in-rising-water) |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0827-making-a-large-island) |
@@ -114,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0542-01-matrix) |
 | [0575-distribute-candies](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0575-distribute-candies) |
+| [0721-accounts-merge](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0827-making-a-large-island) |
@@ -160,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0127-word-ladder) |
 | [0443-string-compression](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0443-string-compression) |
+| [0721-accounts-merge](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0721-accounts-merge) |
 | [1021-remove-outermost-parentheses](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1021-remove-outermost-parentheses) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
@@ -179,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0047-permutations-ii) |
+| [0721-accounts-merge](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0721-accounts-merge) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
