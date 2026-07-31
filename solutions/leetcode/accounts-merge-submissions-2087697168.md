@@ -1,7 +1,7 @@
 # accounts merge/submissions/2087697168
 
 **Platform:** LeetCode  
-**Date:** 2026-07-30  
+**Date:** 2026-07-31  
 
 ## Solution
 
