@@ -6,8 +6,11 @@ public:
         vector<int> lastSeen(256,-1);
         while(r<n){
             if(lastSeen[s[r]] != -1){
-                while(lastSeen[s[r]] >= l){
-                     l += 1;
+                if(lastSeen[s[r]] >= l){
+                     l = lastSeen[s[r]] + 1;
+                    lastSeen[s[r]] = r;
+                   
+                   
                 }
             }
             lastSeen[s[r]] = r;
