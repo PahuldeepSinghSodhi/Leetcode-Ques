@@ -8,9 +8,6 @@ public:
             if(lastSeen[s[r]] != -1){
                 if(lastSeen[s[r]] >= l){
                      l = lastSeen[s[r]] + 1;
-                    lastSeen[s[r]] = r;
-                   
-                   
                 }
             }
             lastSeen[s[r]] = r;
