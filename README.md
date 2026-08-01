@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0126-word-ladder-ii](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0141-linked-list-cycle) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0126-word-ladder-ii](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0127-word-ladder) |
 | [0443-string-compression](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0443-string-compression) |
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0135-candy) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
