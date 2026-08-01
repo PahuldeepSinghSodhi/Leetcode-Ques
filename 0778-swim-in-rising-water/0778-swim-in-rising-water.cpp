@@ -1,46 +1,36 @@
 class Solution {
 public:
     int swimInWater(vector<vector<int>>& grid) {
-        int n = grid.size();
+      int n = grid.size();
+      vector<vector<int>> dist(n,vector<int>(n,INT_MAX));
+      priority_queue<vector<int>,vector<vector<int>>,greater<vector<int>>> pq;
+      dist[0][0] = grid[0][0];
+      pq.push({grid[0][0],0,0});
 
-        vector<vector<int>> dist(n, vector<int>(n, INT_MAX));
+      while(!pq.empty()){
+        auto curr = pq.top();
+        pq.pop();
+        int time = curr[0];
+        int row = curr[1];
+        int col = curr[2];
 
-        priority_queue<vector<int>, vector<vector<int>>, greater<vector<int>>> pq;
-        pq.push({grid[0][0], 0, 0});
-        dist[0][0] = grid[0][0];
+        if( row == n-1 && col == n-1) return time;
+        if(time > dist[row][col]) continue;
+        int drow[] = {-1,0,1,0};
+        int dcol[] = {0,1,0,-1};
+        for(int k = 0 ; k < 4 ; k++){
+            int newr = row + drow[k];
+            int newc = col + dcol[k];
+            if(newr >= 0 && newc >= 0 && newr < n && newc < n){
+                int newTime = max(time,grid[newr][newc]);
 
-        vector<int> dr = {-1, 0, 1, 0};
-        vector<int> dc = {0, 1, 0, -1};
-
-        while (!pq.empty()) {
-            auto curr = pq.top();
-            pq.pop();
-
-            int time = curr[0];
-            int r = curr[1];
-            int c = curr[2];
-
-            if (r == n - 1 && c == n - 1)
-                return time;
-
-            if (time > dist[r][c])
-                continue;
-
-            for (int k = 0; k < 4; k++) {
-                int nr = r + dr[k];
-                int nc = c + dc[k];
-
-                if (nr >= 0 && nr < n && nc >= 0 && nc < n) {
-                    int newTime = max(time, grid[nr][nc]);
-
-                    if (newTime < dist[nr][nc]) {
-                        dist[nr][nc] = newTime;
-                        pq.push({newTime, nr, nc});
-                    }
+                if( newTime < dist[newr][newc]){
+                    dist[newr][newc] = newTime;
+                    pq.push({newTime,newr,newc});
                 }
             }
         }
-
-        return -1;
+      }
+      return -1;
     }
 };
