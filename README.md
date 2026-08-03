@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0160-intersection-of-two-linked-lists) |
+| [0424-longest-repeating-character-replacement](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0424-longest-repeating-character-replacement) |
 | [0575-distribute-candies](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0575-distribute-candies) |
 | [0721-accounts-merge](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0721-accounts-merge) |
 | [0904-fruit-into-baskets](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0904-fruit-into-baskets) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0126-word-ladder-ii](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0127-word-ladder) |
+| [0424-longest-repeating-character-replacement](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0443-string-compression) |
 | [0721-accounts-merge](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0721-accounts-merge) |
 | [1021-remove-outermost-parentheses](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1021-remove-outermost-parentheses) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
