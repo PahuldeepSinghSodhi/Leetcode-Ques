@@ -8,7 +8,7 @@ public:
         while(r<s.size()){
             hash[s[r] - 'A']++;
             maxf = max(maxf,hash[s[r] - 'A']);
-            while((r-l+1)-maxf > k){
+            if((r-l+1)-maxf > k){
                 hash[s[l] - 'A']--;
                 for(int i = 0; i < 25 ; i++){
                     maxf = max(maxf,hash[i]);
