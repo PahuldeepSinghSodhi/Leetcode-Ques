@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0443-string-compression) |
 | [0721-accounts-merge](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0721-accounts-merge) |
 | [1021-remove-outermost-parentheses](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1021-remove-outermost-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 ## Backtracking
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Prefix Sum
 |  |
 | ------- |
