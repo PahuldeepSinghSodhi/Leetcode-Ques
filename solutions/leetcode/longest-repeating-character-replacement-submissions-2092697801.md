@@ -1,7 +1,7 @@
 # longest repeating character replacement/submissions/2092697801
 
 **Platform:** LeetCode  
-**Date:** 2026-08-03  
+**Date:** 2026-08-04  
 
 ## Solution
 
