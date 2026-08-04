@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0575-distribute-candies) |
 | [0721-accounts-merge](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0721-accounts-merge) |
 | [0904-fruit-into-baskets](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Linked List
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0827-making-a-large-island) |
 | [0904-fruit-into-baskets](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1020-number-of-enclaves) |
@@ -237,9 +239,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
