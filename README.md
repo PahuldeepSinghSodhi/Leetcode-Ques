@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0992-subarrays-with-k-different-integers](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Linked List
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0827-making-a-large-island) |
 | [0904-fruit-into-baskets](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1020-number-of-enclaves) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -260,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1248-count-number-of-nice-subarrays) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
