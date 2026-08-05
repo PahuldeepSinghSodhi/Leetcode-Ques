@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -247,12 +248,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Math
 |  |
 | ------- |
