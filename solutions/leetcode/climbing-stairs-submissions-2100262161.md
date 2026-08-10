@@ -1,7 +1,7 @@
 # climbing stairs/submissions/2100262161
 
 **Platform:** LeetCode  
-**Date:** 2026-08-09  
+**Date:** 2026-08-10  
 
 ## Solution
 
