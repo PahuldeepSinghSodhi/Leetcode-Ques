@@ -24,26 +24,29 @@ public:
        int rows = grid.size();
        int cols = grid[0].size();
        vector<vector<int>> dp(rows,vector<int>(cols,-1));
+       vector<int> prev(cols,0);
 
        for(int i = 0; i < rows; i++){
+        vector<int> curr(cols,0);
         for(int j = 0 ; j < cols ; j++){
             int up=0,left=0;
-            if(i == 0 && j == 0 ) dp[i][j] = grid[i][j];
+            if(i == 0 && j == 0 ) curr[j] = grid[i][j];
             else {
             up = grid[i][j];
-            if(i > 0) up += dp[i-1][j];
+            if(i > 0) up += prev[j];
             else up += 1e9;
 
             left = grid[i][j];
-            if(j > 0) left += dp[i][j-1];
+            if(j > 0) left += curr[j-1];
             else left += 1e9;
 
-            dp[i][j] = min(up,left);
+            curr[j] = min(up,left);
         }
         }
+        prev = curr;
        }
 
-       return dp[rows-1][cols-1];
+       return prev[cols-1];
     }
 };
 ```
