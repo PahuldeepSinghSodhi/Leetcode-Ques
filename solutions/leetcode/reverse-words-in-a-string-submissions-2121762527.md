@@ -1,0 +1,36 @@
+# reverse words in a string/submissions/2121762527
+
+**Platform:** LeetCode  
+**Date:** 2026-08-27  
+
+## Solution
+
+```
+class Solution {
+public:
+    string reverseWords(string s) {
+
+        stringstream ss(s);
+        vector<string> words;
+        string word;
+
+        while(ss >> word ){
+            words.push_back(word);
+        }
+
+        string ans = "";
+
+        reverse(words.begin(),words.end());
+
+        for(int i = 0 ; i < words.size() ; i++){
+
+            ans += words[i];
+
+            if(i != words.size() - 1) ans += ' ';
+        }
+
+        return ans;
+        
+    }
+};
+```
