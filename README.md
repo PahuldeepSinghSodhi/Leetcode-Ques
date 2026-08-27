@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0443-string-compression) |
 | [0721-accounts-merge](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0721-accounts-merge) |
+| [0796-rotate-string](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
@@ -303,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1021-remove-outermost-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
