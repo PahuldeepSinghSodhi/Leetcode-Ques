@@ -18,7 +18,7 @@ public:
 
             ans += words[i];
 
-            if(i != words.size() - 1) ans += ' ';
+            if(i != words.size() - 1) ans += " ";
         }
 
         return ans;
