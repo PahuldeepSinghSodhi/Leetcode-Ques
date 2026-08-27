@@ -292,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0062-unique-paths) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
