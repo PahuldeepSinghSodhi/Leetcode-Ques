@@ -1,7 +1,7 @@
 # valid anagram/submissions/2125340475
 
 **Platform:** LeetCode  
-**Date:** 2026-08-31  
+**Date:** 2026-09-01  
 
 ## Solution
 
