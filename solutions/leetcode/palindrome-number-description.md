@@ -1,7 +1,7 @@
 # palindrome number/description
 
 **Platform:** LeetCode  
-**Date:** 2026-09-05  
+**Date:** 2026-09-06  
 
 ## Solution
 
