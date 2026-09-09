@@ -1,7 +1,7 @@
 # reverse words in a string/submissions/2135310425
 
 **Platform:** LeetCode  
-**Date:** 2026-09-08  
+**Date:** 2026-09-09  
 
 ## Solution
 
