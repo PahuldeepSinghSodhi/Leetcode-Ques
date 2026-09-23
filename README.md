@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0014-longest-common-prefix) |
 | [0046-permutations](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0047-permutations-ii) |
 | [0063-unique-paths-ii](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0063-unique-paths-ii) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0127-word-ladder) |
@@ -311,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0796-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
