@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0451-sort-characters-by-frequency) |
 | [0575-distribute-candies](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0575-distribute-candies) |
 | [0721-accounts-merge](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0721-accounts-merge) |
 | [0904-fruit-into-baskets](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0904-fruit-into-baskets) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1021-remove-outermost-parentheses) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0047-permutations-ii) |
 | [0242-valid-anagram](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0721-accounts-merge) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -296,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0992-subarrays-with-k-different-integers) |
 ## Memoization
 |  |
@@ -317,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0014-longest-common-prefix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
