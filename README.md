@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1903-largest-odd-number-in-string](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1903-largest-odd-number-in-string) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Enumeration
 |  |
 | ------- |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PahuldeepSinghSodhi/Leetcode-Ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
 |  |
 | ------- |
